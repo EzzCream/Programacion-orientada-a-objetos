@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abecedario/Abecedario.iml" filepath="$PROJECT_DIR$/Abecedario/Abecedario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cubo/Cubo.iml" filepath="$PROJECT_DIR$/Cubo/Cubo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio1-Examen/Ejercicio1-Examen.iml" filepath="$PROJECT_DIR$/Ejercicio1-Examen/Ejercicio1-Examen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio2-Examen/Ejercicio2-Examen.iml" filepath="$PROJECT_DIR$/Ejercicio2-Examen/Ejercicio2-Examen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio3-Examen/Ejercicio3-Examen.iml" filepath="$PROJECT_DIR$/Ejercicio3-Examen/Ejercicio3-Examen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Figuras/Figuras.iml" filepath="$PROJECT_DIR$/Figuras/Figuras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HolaMundo/HolaMundo.iml" filepath="$PROJECT_DIR$/HolaMundo/HolaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfoPersonal/InfoPersonal.iml" filepath="$PROJECT_DIR$/InfoPersonal/InfoPersonal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumerosNones/NumerosNones.iml" filepath="$PROJECT_DIR$/NumerosNones/NumerosNones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Potencias/Potencias.iml" filepath="$PROJECT_DIR$/Potencias/Potencias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programacion-orientada-a-objetos.iml" filepath="$PROJECT_DIR$/.idea/Programacion-orientada-a-objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Promedio/Promedio.iml" filepath="$PROJECT_DIR$/Promedio/Promedio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numeroNaturales/numeroNaturales.iml" filepath="$PROJECT_DIR$/numeroNaturales/numeroNaturales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablaMultiplicar/tablaMultiplicar.iml" filepath="$PROJECT_DIR$/tablaMultiplicar/tablaMultiplicar.iml" />
+    </modules>
+  </component>
+</project>
