@@ -1,11 +1,13 @@
 package Materias;
 
 public class Materias {
+    private String nombre;
     private int calificacion1;
     private int calificacion2;
     private int calificacion3;
 
-    public Materias() {
+    public Materias(String nombre) {
+        this.nombre = nombre;
     }
 
     public Materias(int calificacion1, int calificacion2, int calificacion3) {
@@ -39,5 +41,13 @@ public class Materias {
     }
     public int[] getAllCalificaciones(){
         return new int[]{calificacion1,calificacion2,calificacion3};
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
     }
 }
