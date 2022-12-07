@@ -4,13 +4,13 @@ public abstract class Persona {
     private String nombre;
     private String domicilio;
     private String fechaNacimiento;
-    private String Sexo;
+    private String sexo;
 
     public Persona(String nombre, String domicilio, String fechaNacimiento, String sexo) {
         this.nombre = nombre;
         this.domicilio = domicilio;
         this.fechaNacimiento = fechaNacimiento;
-        Sexo = sexo;
+        this.sexo = sexo;
     }
 
     public String getNombre() {
@@ -38,10 +38,10 @@ public abstract class Persona {
     }
 
     public String getSexo() {
-        return Sexo;
+        return this.sexo;
     }
 
     public void setSexo(String sexo) {
-        Sexo = sexo;
+        this.sexo = sexo;
     }
 }
